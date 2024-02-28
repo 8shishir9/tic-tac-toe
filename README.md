@@ -23,9 +23,11 @@ To compile and run the game, follow these steps:
 4. Compile the code. For example, using g++ you can compile the game with the following command:
    ```sh
    g++ -o TicTacToe TicTacToe.cpp
+   ```
 5.Run the compiled program
-```sh
+```
 ./TicTacToe
+```
 ## How to play
 The game starts with an empty 3x3 grid.
 Players are prompted in turn to enter a number from 1 to 9, corresponding to different positions on the grid.
